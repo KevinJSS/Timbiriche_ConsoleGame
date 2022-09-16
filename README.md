@@ -4,7 +4,7 @@ Timbiriche is a console board game developed as an assignment project in 2020 fo
 ![TimbiricheImage](https://user-images.githubusercontent.com/103754829/190698406-98e9fa03-73c0-4a7a-b301-044b62f9af62.png)
 
 
-### Programming languages:
+### Build with:
 - 100% Java
 
 ### Developers:
