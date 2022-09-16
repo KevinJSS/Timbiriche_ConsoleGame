@@ -4,6 +4,6 @@ Timbiriche is a console board game developed as an assignment project in 2020 fo
 ### Programming languages:
 - 100% Java
 
-### DEVELOPERS:
+### Developers:
 - Kevin Alvarado Pérez.
 - Alina Rodríguez Ávila.
